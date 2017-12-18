@@ -1,0 +1,18 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.fondo {
+  background-image: url(../assets/images/taxi.jpg);
+height: 100vh;
+background-size: cover;
+background-position: bottom center;
+}
+.square-yellow {
+  background-color: #F7B617;
+  padding: 30px;
+  margin-top: 7%;
+}
